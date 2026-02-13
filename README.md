@@ -4,7 +4,7 @@
 </div>
 
 
-<div align="center"> <img src="figs/1.png" width="60%"> </div>
+<div align="center"> <img src="figs/fig1.png" width="60%"> </div>
 
 <div align="justify">
 
@@ -14,7 +14,7 @@ Industrial anomaly detection and localization increasingly rely on large vision-
 
 📴**Keywords**: Cross-Domain, Zero/Few-Shot, Anomaly Detection and Segmentation, Large Vision Language Model
 
-<div align="center"> <img src="figs/2.png " width="100%"> </div>
+<div align="center"> <img src="figs/fig2.png " width="100%"> </div>
 
 
 ## 🚀 Get Started
@@ -121,9 +121,9 @@ For example, to test on the Visa , simply run:
 
 
 ## 🖼️ Visualization
-<center><img src="images/3.png "width="70%"></center>
-<center><img src="images/4.png "width="70%"></center>
-<center><img src="images/5.png "width="70%"></center>
+<center><img src="figs/fig3.png "width="70%"></center>
+<center><img src="figs/fig4.png "width="70%"></center>
+
 
 ## 🙏 Acknowledgement
 We borrow some codes from [OpenCLIP](https://github.com/mlfoundations/open_clip), and [April-GAN](https://github.com/ByChelsea/VAND-APRIL-GAN).
