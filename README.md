@@ -4,7 +4,7 @@
 </div>
 
 
-<div align="center"> <img src="images/1.png" width="60%"> </div>
+<div align="center"> <img src="figs/1.png" width="60%"> </div>
 
 <div align="justify">
 
@@ -14,7 +14,7 @@ Industrial anomaly detection and localization increasingly rely on large vision-
 
 📴**Keywords**: Cross-Domain, Zero/Few-Shot, Anomaly Detection and Segmentation, Large Vision Language Model
 
-<div align="center"> <img src="images/2.png " width="100%"> </div>
+<div align="center"> <img src="figs/2.png " width="100%"> </div>
 
 
 ## 🚀 Get Started
